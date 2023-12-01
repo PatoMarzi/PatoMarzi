@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=400)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=500)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=600)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=700)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=800)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=900)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
