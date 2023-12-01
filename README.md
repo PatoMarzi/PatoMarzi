@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patomarzi&layout=pie)](https://github.com/patomarzi/github-readme-stats) <br>
+[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatoMarzi)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=PatoMarzi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
