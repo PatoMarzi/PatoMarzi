@@ -1,10 +1,36 @@
 <h2> Hola! Soy Patricio Marzi, tengo 29 años y soy de Rosario, Argentina. </h2>
 
 Actualmente estudio Ingeniería en Sistemas. Soy una persona apasionada de los datos, el espacio y la estadística. 
-He desarrollado projectos de Machine Learning y de visualización de datos. Espero poder hacer muchos más y aprender cada vez más sobre este maravilloso mundo sin horizonte!
+Estoy en búsqueda de mi primer trabajo en IT. He desarrollado proyectos de Machine Learning y de visualización de datos ambos deployados en FastAPI y Streamlit, respectivamente.
 
 
 
+Espero poder hacer muchos más y aprender cada vez más sobre este maravilloso mundo sin horizonte!
+
+
+### Skillset
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+- 📚 &nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
+- 🔧 &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
+  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+- ☁️ &nbsp;
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
 
 
