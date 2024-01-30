@@ -9,9 +9,15 @@ He desarrollado projectos de Machine Learning y de visualización de datos. Espe
 
 
 
-Si deseas saber más, no dudes en contactarme!
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/patricio-marzi)
+Si deseas saber más, no dudes en contactarme! <br>
+<div align="center">
+  <a href='https://www.linkedin.com/in/patricio-marzi/'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
+  </a>
+  <a href='mailto:patriciomarzi@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 ####
 
 <p text-align: "center"> How are you? </p>
