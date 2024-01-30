@@ -44,9 +44,6 @@ Si deseas saber más, no dudes en contactarme! <br>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-####
-
-<p text-align: "center"> How are you? </p>
 
 <!--
 **PatoMarzi/PatoMarzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
