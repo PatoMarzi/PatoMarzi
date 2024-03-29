@@ -1,7 +1,6 @@
 <h2> Hola! Soy Patricio Marzi, tengo 29 años y soy de Rosario, Argentina. </h2>
 
-Actualmente estudio Ingeniería en Sistemas. Soy una persona apasionada de los datos, el espacio y la estadística. 
-Estoy en búsqueda de mi primer trabajo en IT. He desarrollado proyectos de Machine Learning y de visualización de datos ambos deployados en FastAPI y Streamlit, respectivamente.
+Actualmente estudio Ingeniería en Sistemas. Soy una persona apasionada de los datos, el espacio y la estadística. <br> He desarrollado proyectos de Machine Learning y de visualización de datos ambos deployados en FastAPI y Streamlit, respectivamente.
 
 
 
