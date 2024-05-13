@@ -4,7 +4,6 @@ Actualmente estudio Ingeniería en Sistemas. Soy una persona apasionada de los d
 
 
 
-Espero poder hacer muchos más y aprender cada vez más sobre este maravilloso mundo sin horizonte!
 
 
 ### Skillset
